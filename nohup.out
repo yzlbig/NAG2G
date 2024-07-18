@@ -1,0 +1,100 @@
+2024-07-17 21:31:54 | INFO | unicore.logging.progress_bar | valid on 'test' subset:    101 / 5007 vae_kl_loss=[120, 102, 129, 102, 105, 123, 123, 106, 106, 103], sample_size=1, bsz=1, seq_len=136
+
+82.39465832710266
+total 10143
+unstrict [5728 1507  764  417  257  194  175  108  108   88]
+unstrict [0.56472444 0.14857537 0.07532288 0.0411121  0.02533767 0.01912649
+ 0.01725328 0.01064774 0.01064774 0.00867593]
+strict [5572 1481  742  405  255  192  173  106  106   88]
+strict [0.54934438 0.14601203 0.0731539  0.03992902 0.02514049 0.01892931
+ 0.0170561  0.01045056 0.01045056 0.00867593]
+nodup_list_all [5590 1477  750  405  266  199  165   96   92   80]
+nodup_list_all [0.551119   0.14561767 0.07394262 0.03992902 0.02622498 0.01961944
+ 0.01626738 0.00946466 0.00907029 0.00788721]
+
+
+unstrict [5728 7235 7999 8416 8673 8867 9042 9150 9258 9346]
+unstrict [0.56472444 0.71329981 0.7886227  0.82973479 0.85507246 0.87419895
+ 0.89145223 0.90209997 0.91274771 0.92142364]
+strict [5572 7053 7795 8200 8455 8647 8820 8926 9032 9120]
+strict [0.54934438 0.6953564  0.7685103  0.80843932 0.83357981 0.85250912
+ 0.86956522 0.88001577 0.89046633 0.89914227]
+nodup_list_all [5590 7067 7817 8222 8488 8687 8852 8948 9040 9120]
+nodup_list_all [0.551119   0.69673667 0.77067929 0.8106083  0.83683328 0.85645273
+ 0.8727201  0.88218476 0.89125505 0.89914227]
+/root/NAG2G
+2024-07-17 21:33:11 | INFO | unicore.logging.progress_bar | valid on 'test' subset:    201 / 5007 vae_kl_loss=[89, 97, 103, 92, 96, 105, 108, 116, 97, 92], sample_size=1, bsz=1, seq_len=88
+2024-07-17 21:34:37 | INFO | unicore.logging.progress_bar | valid on 'test' subset:    301 / 5007 vae_kl_loss=[54, 58, 64, 57, 58, 59, 63, 80, 79, 58], sample_size=1, bsz=1, seq_len=64
+2024-07-17 21:35:54 | INFO | unicore.logging.progress_bar | valid on 'test' subset:    401 / 5007 vae_kl_loss=[58, 59, 55, 58, 58, 69, 58, 76, 59, 58], sample_size=1, bsz=1, seq_len=64
+2024-07-17 21:43:11 | INFO | unicore.logging.progress_bar | valid on 'test' subset:    901 / 5007 vae_kl_loss=[65, 66, 83, 92, 82, 87, 75, 90, 85, 105], sample_size=1, bsz=1, seq_len=72
+2024-07-17 21:44:39 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1001 / 5007 vae_kl_loss=[81, 81, 82, 81, 81, 81, 81, 92, 82, 81], sample_size=1, bsz=1, seq_len=88
+2024-07-17 21:45:59 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1101 / 5007 vae_kl_loss=[89, 120, 80, 108, 89, 89, 120, 80, 89, 83], sample_size=1, bsz=1, seq_len=88
+2024-07-17 21:47:19 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1201 / 5007 vae_kl_loss=[38, 38, 39, 38, 38, 38, 38, 39, 38, 49], sample_size=1, bsz=1, seq_len=40
+2024-07-17 21:48:45 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1301 / 5007 vae_kl_loss=[92, 111, 83, 92, 92, 111, 82, 83, 92, 85], sample_size=1, bsz=1, seq_len=96
+2024-07-17 21:50:07 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1401 / 5007 vae_kl_loss=[82, 82, 82, 82, 99, 100, 100, 89, 82, 82], sample_size=1, bsz=1, seq_len=88
+2024-07-17 21:51:32 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1501 / 5007 vae_kl_loss=[121, 112, 140, 121, 115, 140, 121, 140, 140, 131], sample_size=1, bsz=1, seq_len=144
+2024-07-17 21:52:53 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1601 / 5007 vae_kl_loss=[90, 89, 90, 90, 99, 90, 92, 91, 95, 90], sample_size=1, bsz=1, seq_len=96
+2024-07-17 21:54:25 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1701 / 5007 vae_kl_loss=[80, 79, 81, 104, 83, 97, 96, 84, 109, 83], sample_size=1, bsz=1, seq_len=88
+2024-07-17 21:55:52 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1801 / 5007 vae_kl_loss=[90, 90, 90, 90, 90, 89, 90, 91, 96, 95], sample_size=1, bsz=1, seq_len=96
+2024-07-17 21:57:27 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   1901 / 5007 vae_kl_loss=[62, 61, 53, 53, 65, 54, 72, 62, 61, 50], sample_size=1, bsz=1, seq_len=56
+2024-07-17 21:58:48 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2001 / 5007 vae_kl_loss=[97, 102, 101, 102, 104, 96, 103, 99, 103, 98], sample_size=1, bsz=1, seq_len=104
+2024-07-17 22:00:13 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2101 / 5007 vae_kl_loss=[40, 43, 40, 37, 41, 50, 41, 51, 43, 43], sample_size=1, bsz=1, seq_len=48
+2024-07-17 22:01:34 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2201 / 5007 vae_kl_loss=[19, 22, 29, 33, 19, 18, 27, 25, 24, 31], sample_size=1, bsz=1, seq_len=32
+2024-07-17 22:02:56 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2301 / 5007 vae_kl_loss=[62, 59, 69, 58, 78, 59, 69, 59, 58, 69], sample_size=1, bsz=1, seq_len=64
+2024-07-17 22:04:17 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2401 / 5007 vae_kl_loss=[79, 95, 80, 79, 78, 79, 76, 79, 80, 79], sample_size=1, bsz=1, seq_len=80
+2024-07-17 22:05:50 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2501 / 5007 vae_kl_loss=[85, 85, 103, 84, 85, 105, 108, 101, 84, 86], sample_size=1, bsz=1, seq_len=104
+2024-07-17 22:07:12 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2601 / 5007 vae_kl_loss=[57, 57, 56, 57, 58, 58, 57, 68, 64, 75], sample_size=1, bsz=1, seq_len=64
+2024-07-17 22:08:31 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2701 / 5007 vae_kl_loss=[49, 51, 44, 63, 45, 44, 51, 45, 58, 45], sample_size=1, bsz=1, seq_len=64
+2024-07-17 22:09:55 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2801 / 5007 vae_kl_loss=[104, 123, 104, 122, 105, 104, 111, 105, 105, 124], sample_size=1, bsz=1, seq_len=112
+2024-07-17 22:11:15 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   2901 / 5007 vae_kl_loss=[76, 76, 77, 77, 77, 77, 77, 78, 76, 80], sample_size=1, bsz=1, seq_len=80
+2024-07-17 22:12:36 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3001 / 5007 vae_kl_loss=[54, 53, 70, 77, 76, 63, 49, 68, 45, 69], sample_size=1, bsz=1, seq_len=56
+2024-07-17 22:13:59 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3101 / 5007 vae_kl_loss=[102, 101, 101, 102, 104, 103, 105, 101, 107, 110], sample_size=1, bsz=1, seq_len=104
+2024-07-17 22:15:36 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3201 / 5007 vae_kl_loss=[90, 90, 90, 90, 90, 101, 101, 90, 89, 91], sample_size=1, bsz=1, seq_len=96
+2024-07-17 22:16:59 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3301 / 5007 vae_kl_loss=[75, 75, 70, 93, 73, 75, 71, 76, 88, 70], sample_size=1, bsz=1, seq_len=80
+2024-07-17 22:18:18 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3401 / 5007 vae_kl_loss=[134, 136, 129, 112, 156, 135, 143, 122, 117, 117], sample_size=1, bsz=1, seq_len=136
+2024-07-17 22:19:46 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3501 / 5007 vae_kl_loss=[48, 48, 59, 49, 48, 49, 47, 46, 47, 58], sample_size=1, bsz=1, seq_len=56
+2024-07-17 22:21:21 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3601 / 5007 vae_kl_loss=[71, 88, 73, 71, 72, 71, 72, 71, 95, 76], sample_size=1, bsz=1, seq_len=72
+2024-07-17 22:22:44 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3701 / 5007 vae_kl_loss=[134, 134, 134, 134, 115, 107, 115, 105, 122, 146], sample_size=1, bsz=1, seq_len=136
+2024-07-17 22:24:03 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3801 / 5007 vae_kl_loss=[64, 63, 74, 63, 63, 63, 64, 63, 65, 64], sample_size=1, bsz=1, seq_len=72
+2024-07-17 22:25:34 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   3901 / 5007 vae_kl_loss=[76, 80, 80, 80, 109, 93, 76, 93, 80, 77], sample_size=1, bsz=1, seq_len=80
+2024-07-17 22:26:55 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4001 / 5007 vae_kl_loss=[96, 97, 98, 97, 97, 97, 97, 97, 107, 96], sample_size=1, bsz=1, seq_len=104
+2024-07-17 22:28:15 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4101 / 5007 vae_kl_loss=[157, 138, 129, 157, 131, 129, 154, 160, 147, 124], sample_size=1, bsz=1, seq_len=144
+2024-07-17 22:29:32 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4201 / 5007 vae_kl_loss=[74, 71, 71, 75, 72, 80, 75, 74, 76, 71], sample_size=1, bsz=1, seq_len=80
+2024-07-17 22:31:08 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4301 / 5007 vae_kl_loss=[80, 79, 80, 79, 82, 89, 92, 85, 81, 92], sample_size=1, bsz=1, seq_len=88
+2024-07-17 22:32:42 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4401 / 5007 vae_kl_loss=[90, 95, 133, 92, 114, 106, 89, 90, 89, 90], sample_size=1, bsz=1, seq_len=120
+2024-07-17 22:34:14 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4501 / 5007 vae_kl_loss=[43, 46, 46, 44, 47, 46, 45, 45, 54, 56], sample_size=1, bsz=1, seq_len=56
+2024-07-17 22:35:28 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4601 / 5007 vae_kl_loss=[45, 46, 46, 43, 47, 55, 54, 47, 55, 65], sample_size=1, bsz=1, seq_len=48
+2024-07-17 22:37:02 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4701 / 5007 vae_kl_loss=[35, 37, 32, 40, 42, 49, 37, 42, 33, 37], sample_size=1, bsz=1, seq_len=40
+2024-07-17 22:38:33 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4801 / 5007 vae_kl_loss=[116, 115, 115, 116, 119, 116, 116, 116, 115, 118], sample_size=1, bsz=1, seq_len=120
+2024-07-17 22:40:13 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   4901 / 5007 vae_kl_loss=[71, 73, 85, 65, 67, 64, 70, 67, 94, 68], sample_size=1, bsz=1, seq_len=72
+2024-07-17 22:41:36 | INFO | unicore.logging.progress_bar | valid on 'test' subset:   5001 / 5007 vae_kl_loss=[120, 121, 120, 120, 121, 117, 121, 123, 120, 122], sample_size=1, bsz=1, seq_len=128
+2024-07-17 22:41:39 | INFO | test | valid on 'test' subset | loss 0 | seq_len 87.318 | bsz 5007
+smi_SimpleGenerator_lp0.0_t1_10_bhs2_bss5_b1_USPTO50K_brief_20230227_0.txt
+single lines: 196755
+15135
+
+  0%|          | 0/15135 [00:00<?, ?it/s]
+100%|██████████| 15135/15135 [00:00<00:00, 1832533.44it/s]
+123.53172326087952
+total 15135
+unstrict [8559 2244 1137  622  383  288  257  162  162  132]
+unstrict [0.56551041 0.14826561 0.07512389 0.0410968  0.02530558 0.01902874
+ 0.01698051 0.01070367 0.01070367 0.00872151]
+strict [8325 2205 1105  604  380  285  254  159  159  132]
+strict [0.55004955 0.1456888  0.07300958 0.0399075  0.02510737 0.01883053
+ 0.01678229 0.01050545 0.01050545 0.00872151]
+nodup_list_all [8350 2201 1117  604  394  298  242  144  138  120]
+nodup_list_all [0.55170135 0.14542451 0.07380244 0.0399075  0.02603238 0.01968946
+ 0.01598943 0.00951437 0.00911794 0.00792864]
+
+
+unstrict [ 8559 10803 11940 12562 12945 13233 13490 13652 13814 13946]
+unstrict [0.56551041 0.71377602 0.7888999  0.8299967  0.85530228 0.87433102
+ 0.89131153 0.9020152  0.91271886 0.92144037]
+strict [ 8325 10530 11635 12239 12619 12904 13158 13317 13476 13608]
+strict [0.55004955 0.69573835 0.76874794 0.80865543 0.8337628  0.85259333
+ 0.86937562 0.87988107 0.89038652 0.89910803]
+nodup_list_all [ 8350 10551 11668 12272 12666 12964 13206 13350 13488 13608]
+nodup_list_all [0.55170135 0.69712587 0.77092831 0.81083581 0.83686819 0.85655765
+ 0.87254708 0.88206145 0.89117939 0.89910803]
+/root/NAG2G
